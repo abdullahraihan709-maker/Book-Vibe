@@ -1,6 +1,6 @@
 # Book Vibe
 
-A modern book discovery and reading tracker built with **Next.js 16**, **React 19**, **TypeScript**, and **Tailwind CSS 4**. Browse a curated catalog, inspect book details, build a read list and wishlist, sort saved books, and visualize the page counts of books you have read. Check out the ![Live Site](https://my-book-vibe-woad.vercel.app/)
+A modern book discovery and reading tracker built with **Next.js 16**, **React 19**, **TypeScript**, and **Tailwind CSS 4**. Browse a curated catalog, inspect book details, build a read list and wishlist, sort saved books, and visualize the page counts of books you have read. Check out the [Live Site](https://my-book-vibe-woad.vercel.app/)
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.3.5-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.2.8-61DAFB?logo=react&logoColor=black)
